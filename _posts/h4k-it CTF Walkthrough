@@ -1,3 +1,9 @@
+---
+layout: post
+title: "How to Convert Word Docs to Markdown"
+date: 2025-07-16
+---
+
 **Hello this is my writeup for the PHP-J4G web challenge from h4k-it.com.**
 
 So we’ve been given the ip address and the port in which we can access the website.
