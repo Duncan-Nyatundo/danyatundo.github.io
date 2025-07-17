@@ -1,1 +1,25 @@
+**Hello this is my writeup for the PHP-J4G web challenge from h4k-it.com.**
 
+So we’ve been given the ip address and the port in which we can access the website.
+
+After accessing the website I get a login page that requires a password.
+
+![My Diagram](assets/images/pic1.png)
+I try random values and default passwords to no success.
+
+I then view the source-code of the website and find some hex values.
+
+![My Diagram](assets/images/pic2.png)
+I decode the hex value(From Hex) from the cyberchef and I get a php-script.
+
+![My Diagram](assets/images/pic3.png)
+I go through the php-script to look for hints.
+
+I try the **“VAWULENCE”** input they have provided to no sucesss.
+
+Then I try the **“a”** input they have provided the **BOOM!** That’s my flag **\[GoH{Wh47_Typ3_w45_th3_1nPu7_Ag41n?}\]**
+
+![My Diagram](assets/images/pic3.png)
+Thank You.
+
+**@Duncan.**
