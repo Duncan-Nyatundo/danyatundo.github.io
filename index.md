@@ -8,7 +8,7 @@ author_profile: true
 
 # Duncan Nyatundo.
 **Ethical Hacker**  
-📍 Nairobi, Kenya. · 📧 nyatundoduncan@gmail.com. · 🐙 [github.com/duncan-nyatundo.github.io. · 💼 linkedin.com/in/duncannyatundo
+📍 Nairobi, Kenya. · 📧 nyatundoduncan@gmail.com. · 🐙 github.com/Duncan-Nyatundo. · 💼 linkedin.com/in/duncannyatundo
 
 ---
 
