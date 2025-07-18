@@ -8,7 +8,7 @@ author_profile: true
 
 # Duncan Nyatundo.
 **Ethical Hacker**  
-📍 Nairobi, Kenya. · 📧 nyatundoduncan@gmail.com. · 🐙 [github.com/Duncan-Nyatundo. · 💼 [linkedin.com/in/yourusername]
+📍 Nairobi, Kenya. · 📧 nyatundoduncan@gmail.com. · 🐙 [github.com/Duncan-Nyatundo. · 💼 linkedin.com/in/duncannyatundo
 
 ---
 
@@ -22,8 +22,8 @@ Motivated and detail-oriented Ethical Hacker with a strong foundation in cyberse
 **IBM Cybersecurity Professional**,   
 🎓 IBM · 📅 2/5/2025 – 16/7/2025  
   
-**Ethical Hacking Essentials**
-🎓 EC-Council,  · 📅 2023 – 2024  
+**Ethical Hacking Essentials**,
+🎓 EC-Council · 📅 2023 – 2024  
 
 ---
 
@@ -36,7 +36,7 @@ Motivated and detail-oriented Ethical Hacker with a strong foundation in cyberse
 ---
 
 ## 💼 Experience
-📍 [Location] · 📅 [Month, Year] – [Month, Year]
+ 📅 01, 2023 – 07, 2025
 ### **HackTheBox Machines and Live CTFs**   
 - Got hands-on experience from hacking machines in HackTheBox.  
 - Player of live Capture The Flags
