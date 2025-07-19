@@ -8,7 +8,7 @@ author_profile: true
 
 # Duncan Nyatundo.
 **Ethical Hacker**  
-📍 Nairobi, Kenya. · 📧 nyatundoduncan@gmail.com. · 🐙 github.com/Duncan-Nyatundo. · 💼 linkedin.com/in/duncannyatundo
+📍 Nairobi, Kenya. · 📧 nyatundoduncan@gmail.com. · 🐙 duncan-nyatundo.github.io/danyatundo.github.io/. · 💼 linkedin.com/in/duncannyatundo
 
 ---
 
@@ -23,6 +23,7 @@ Motivated and detail-oriented Ethical Hacker with a strong foundation in cyberse
 🎓 IBM · 📅 2/5/2025 – 16/7/2025  
   
 **Ethical Hacking Essentials**,
+
 🎓 EC-Council · 📅 2023 – 2024  
 
 ---
@@ -31,7 +32,13 @@ Motivated and detail-oriented Ethical Hacker with a strong foundation in cyberse
 - **Languages:** Python  
 - **Penetration Testing Tools:** BurpSuite, Metasploit, Nmap, Wireshark  
 - **Security Concepts:** Risk analysis, Vulnerability assessment, Seurity policies  
-- **Operating System:** Linux  
+- **Operating System:** Linux
+- **Creativity** Great in generating new ideas
+- **Excellent Communication Skills**
+- **Problem Solving** Great in analyzing and finding smart solutions
+- **Adaptability** Flexible and effective in changing environments
+- **Time Management** I prioritize tasks and meeting deadlines efficiently
+- **Leadership** Great in guiding others to achieve shared goals
 
 ---
 
