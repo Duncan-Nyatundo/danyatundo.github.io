@@ -1,6 +1,6 @@
 ---
 title: "h4k-it CTF Walkthrough!"
-date: 2019-04-18T15:34:30-04:00
+date: 2025-07-18T15:34:30-04:00
 categories:
   - blog
 excerpt: "Writeup for the PHP-J4G challenge from h4k-it.com"
@@ -33,7 +33,7 @@ We’ve been provided with an IP address and a port to access the challenge webs
 
 After accessing the website, we’re greeted with a login page that requires a password.
 
-![Login Page](/assets/images/)
+![Login Page](/assets/images/pic1.png)
 
 I attempted default credentials and random values, but none were successful.
 
@@ -43,7 +43,7 @@ I attempted default credentials and random values, but none were successful.
 
 I decided to view the page source and discovered some hex values embedded in the HTML.
 
-![Hex Values](/assets/images/php-j4g-hex.png)
+![Hex Values](/assets/images/pic2.png)
 
 ---
 
@@ -51,7 +51,7 @@ I decided to view the page source and discovered some hex values embedded in the
 
 I copied the hex and decoded it using [CyberChef](https://gchq.github.io/CyberChef/), selecting the "From Hex" operation. This revealed a PHP script.
 
-![CyberChef Output](/assets/images/php-j4g-cyberchef.png)
+![CyberChef Output](/assets/images/pic3.png)
 
 ---
 
@@ -63,6 +63,8 @@ Two inputs were suggested in the script: `"VAWULENCE"` and `"a"`.
 
 - Trying `"VAWULENCE"` → no success.
 - Trying `"a"` → **BOOM! Got the flag** 🎉
+
+![Flag Reveal](/assets/images/pic4.png)
 
 ---
 
