@@ -3,27 +3,80 @@ title: "h4k-it CTF Walkthrough!"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
+excerpt: "Writeup for the PHP-J4G challenge from h4k-it.com"
+author_profile: true
+toc: true
+toc_label: "Steps"
+toc_icon: "cogs"
+categories:
+  - CTF
+  - Writeups
 tags:
-  - Jekyll
-  - update
+  - Web
+  - PHP
+  - CTF
+  - h4k-it
+  - Reverse Engineering
 ---
 
-You'll findddddddd this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello! This is my write-up for the **PHP-J4G web challenge** from [h4k-it.com](https://h4k-it.com).
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+---
 
-Jekyllllll also offers powerful support for code snippets:
+## Challenge Setup
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+We’ve been provided with an IP address and a port to access the challenge website.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+---
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Step 1: Exploring the Site
+
+After accessing the website, we’re greeted with a login page that requires a password.
+
+![Login Page](/assets/images/)
+
+I attempted default credentials and random values, but none were successful.
+
+---
+
+## Step 2: Viewing the Source Code
+
+I decided to view the page source and discovered some hex values embedded in the HTML.
+
+![Hex Values](/assets/images/php-j4g-hex.png)
+
+---
+
+## Step 3: Decoding the Hex
+
+I copied the hex and decoded it using [CyberChef](https://gchq.github.io/CyberChef/), selecting the "From Hex" operation. This revealed a PHP script.
+
+![CyberChef Output](/assets/images/php-j4g-cyberchef.png)
+
+---
+
+## Step 4: Analyzing the PHP Script
+
+I examined the PHP script to identify any potential backdoors or useful logic.
+
+Two inputs were suggested in the script: `"VAWULENCE"` and `"a"`.
+
+- Trying `"VAWULENCE"` → no success.
+- Trying `"a"` → **BOOM! Got the flag** 🎉
+
+---
+
+## 🏁 Flag
+
+GoH{Wh47_Typ3_w45_th3_1nPu7_Ag41n?}
+
+yaml
+Copy
+Edit
+
+---
+
+## Thank You
+
+Challenge completed!  
+Thanks to @Duncan for this one.
