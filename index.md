@@ -23,6 +23,7 @@ Motivated and detail-oriented Ethical Hacker with a strong foundation in cyberse
 🎓 IBM · 📅 2/5/2025 – 16/7/2025  
   
 **Ethical Hacking Essentials**,
+
 🎓 EC-Council · 📅 2023 – 2024  
 
 ---
