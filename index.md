@@ -33,12 +33,12 @@ Motivated and detail-oriented Ethical Hacker with a strong foundation in cyberse
 - **Penetration Testing Tools:** BurpSuite, Metasploit, Nmap, Wireshark  
 - **Security Concepts:** Risk analysis, Vulnerability assessment, Seurity policies  
 - **Operating System:** Linux
-- **Creativity** Great in generating new ideas
+- **Creativity:** Great in generating new ideas
 - **Excellent Communication Skills**
-- **Problem Solving** Great in analyzing and finding smart solutions
-- **Adaptability** Flexible and effective in changing environments
-- **Time Management** I prioritize tasks and meeting deadlines efficiently
-- **Leadership** Great in guiding others to achieve shared goals
+- **Problem Solving:** Great in analyzing and finding smart solutions
+- **Adaptability:** Flexible and effective in changing environments
+- **Time Management:** I prioritize tasks and meeting deadlines efficiently
+- **Leadership:** Great in guiding others to achieve shared goals
 
 ---
 
