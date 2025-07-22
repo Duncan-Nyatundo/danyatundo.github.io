@@ -31,7 +31,7 @@ Motivated and detail-oriented Ethical Hacker with a strong foundation in cyberse
 ## 🛠 Skills
 - **Languages:** Python  
 - **Penetration Testing Tools:** BurpSuite, Metasploit, Nmap, Wireshark  
-- **Security Concepts:** Risk analysis, Vulnerability assessment, Seurity policies  
+- **Security Concepts:** Risk analysis, Vulnerability assessment, Security policies  
 - **Operating System:** Linux
 - **Creativity:** Great in generating new ideas
 - **Excellent Communication Skills**
