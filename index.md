@@ -13,7 +13,7 @@ author_profile: true
 ---
 
 ## 🧠 Summary
-Motivated and detail-oriented Ethical Hacker with a strong foundation in cybersecurity principles and hands-on experience in Ethical Hacker. Seeking to leverage skills in vulnerability assessment and security testing to contribute to a dynamic cybersecurity team.
+Motivated and detail-oriented Ethical Hacker with a strong foundation in cybersecurity principles and hands-on experience in Ethical Hacking. Seeking to leverage skills in vulnerability assessment and security testing to contribute to a dynamic cybersecurity team.
 
 ---
 
