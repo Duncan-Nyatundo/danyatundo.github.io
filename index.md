@@ -20,6 +20,7 @@ Motivated and detail-oriented Ethical Hacker with a strong foundation in cyberse
 ## 🎓 Education
 
 **Cisco Ethical Hacker**,
+
 🎓 Cyber Shujaa(USIU-A) · 📅 11/6/2025- 14/8/2025
 
 **IBM Cybersecurity Professional**,   
