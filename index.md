@@ -19,6 +19,9 @@ Motivated and detail-oriented Ethical Hacker with a strong foundation in cyberse
 
 ## 🎓 Education
 
+**Cisco Ethical Hacker**,
+🎓 Cyber Shujaa(USIU-A) · 📅 11/6/2025- 14/8/2025
+
 **IBM Cybersecurity Professional**,   
 🎓 IBM · 📅 2/5/2025 – 16/7/2025  
   
@@ -46,7 +49,7 @@ Motivated and detail-oriented Ethical Hacker with a strong foundation in cyberse
  📅 01, 2023 – 07, 2025
 ### **HackTheBox Machines and Live CTFs**   
 - Got hands-on experience from hacking machines in HackTheBox.  
-- Player of live Capture The Flags
+- Player of live Capture The Flags with Fr33aks-Mini.
 
 ### **Achievements**  
 - Awarded a Ruby Budge for obtaining more flags in HackTheBox 
